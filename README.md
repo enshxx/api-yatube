@@ -10,7 +10,7 @@ git clone https://github.com/enshxx/api-yatube
 ```
 
 ```
-cd api_final_yatube
+cd api_yatube
 ```
 
 Cоздать и активировать виртуальное окружение:
